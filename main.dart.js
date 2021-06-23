@@ -62324,7 +62324,7 @@ p=g.dx
 p=L.cd(p.tV(g.cy)+":"+p.tV(g.cx),f,f,f,A.bX(f,f,C.n,f,f,f,f,f,f,f,f,40,f,f,f,f,!0,f,f,f,f,f,f),f,f)
 o=T.dx(new T.c4(new V.ap(20,20,20,20),T.du(L.cd("Pick the option closest to: ",f,f,f,A.bX(f,f,C.n,f,f,f,f,f,f,f,f,25,f,f,f,f,!0,f,f,f,f,f,f),C.aI,f),f,f),f),1)
 n=g.e
-m=T.dx(new T.c4(new V.ap(0,10,10,30),T.du(L.cd(n.n9(),f,f,f,A.bX(f,f,C.n,f,f,f,f,f,f,f,f,45,f,C.ci,f,f,!0,f,f,f,f,f,f),C.aI,f),f,f),f),3)
+m=T.dx(new T.c4(new V.ap(0,10,10,30),T.du(L.cd(n.n9(),f,f,f,A.bX(f,f,C.n,f,f,f,f,f,f,f,f,45,f,C.ci,f,f,!0,f,f,f,f,f,f),C.aI,f),f,f),f),1)
 l=K.dQ(18)
 l=T.dx(new T.c4(new V.ap(30,10,30,10),N.iL(L.cd(n.cC()[0],f,f,f,A.bX(f,f,C.j,f,f,f,f,f,f,f,f,20,f,f,f,f,!0,f,f,f,f,f,f),f,f),r,new O.a4l(g),new X.bV(l,C.p),C.j),f),1)
 k=K.dQ(18)
@@ -62617,7 +62617,7 @@ return M.GF(C.jw,M.cm(s,T.du(new R.t4(this.c,s),s,s),s,s,s,s,s,s,s))}}
 R.t4.prototype={
 au:function(){return new R.IO(this.c,C.k)}}
 R.IO.prototype={
-M:function(a,b){var s=null,r=b.a0(t.w).f,q=T.dm(s,150,s),p=t.Ma,o=T.dx(new T.c4(new V.ap(10,10,10,10),T.du(T.k9(H.b([L.cd("Welcome, You will have 30 minutes to complete a 45 question long vocabulary Quiz. After completing the vocabulary quiz, you will have 45 minutes to complete a 43 question long reading comprehension quiz. Please click Begin to start the test.",s,s,s,A.bX(s,s,C.n,s,s,s,s,s,s,s,s,25,s,s,s,s,!0,s,s,s,s,s,s),C.aI,s)],p),C.ft,C.h8,C.bs),s,s),s),5),n=U.aj5(s,s,new P.A(4278807365),s,s,s,s,s,s,s,s,s,new X.bV(K.dQ(18),C.p),s,s,s,s)
+M:function(a,b){var s=null,r=b.a0(t.w).f,q=T.dm(s,100,s),p=t.Ma,o=T.dx(new T.c4(new V.ap(10,10,10,10),T.du(T.k9(H.b([L.cd("Welcome, You will have 30 minutes to complete a 45 question long vocabulary Quiz. After completing the vocabulary quiz, you will have 45 minutes to complete a 43 question long reading comprehension quiz. Please click Begin to start the test.",s,s,s,A.bX(s,s,C.n,s,s,s,s,s,s,s,s,25,s,s,s,s,!0,s,s,s,s,s,s),C.aI,s)],p),C.ft,C.h8,C.bs),s,s),s),1),n=U.aj5(s,s,new P.A(4278807365),s,s,s,s,s,s,s,s,s,new X.bV(K.dQ(18),C.p),s,s,s,s)
 return M.cm(C.ao,T.du(T.k9(H.b([q,o,T.dx(new T.c4(new V.ap(10,10,10,10),U.aun(L.cd("Begin",s,s,s,A.bX(s,s,C.j,s,s,s,s,s,s,s,s,25,s,s,s,s,!0,s,s,s,s,s,s),s,s),new R.a4v(this,b),n),s),1),T.dm(s,40,s)],p),C.cf,C.iB,C.bs),s,s),s,s,s,s,s,s,r.a.a)}}
 R.a4v.prototype={
 $0:function(){var s=V.Eh(new R.a4u(this.a),null,t.z)
@@ -62721,7 +62721,7 @@ b="Incorrect Vocabulary Questions: "+d+"\n    Incorrect Reading Questions: "+c
 a.q5()
 p=t.bD
 s=2
-return P.a7(q.c.B(0,P.as(["to","Dzdimi14@gmail.com","message",P.as(["subject","Ivy Academy","text","Name: "+H.c(o)+"\n        Grade: "+H.c(n)+"\n        Email: "+H.c(m)+"\n        Phone: "+H.c(l)+"\n        Test Level: "+k+"\n\n        Reading Test Grade: "+H.c(i)+" / 43 or ("+h+")\n        Vocabulary Test Grade: "+H.c(j)+" / 45 or ("+g+")\n\n        The wrong answers were:\n        "+b+"\n\n        Total score: "+f+" / 88 or ("+e+")"],p,p)],p,t.ub)).bv(0,new F.Ru(),t.P),$async$ql)
+return P.a7(q.c.B(0,P.as(["to","IvyAcademy@gmail.com","message",P.as(["subject","Test Score: "+H.c(o),"text","Name: "+H.c(o)+"\n        Grade: "+H.c(n)+"\n        Email: "+H.c(m)+"\n        Phone: "+H.c(l)+"\n        Test Level: "+k+"\n\n        Reading Test Grade: "+H.c(i)+" / 43 or ("+h+")\n        Vocabulary Test Grade: "+H.c(j)+" / 45 or ("+g+")\n\n        The wrong answers were:\n        "+b+"\n\n        Total score: "+f+" / 88 or ("+e+")"],p,p)],p,t.ub)).bv(0,new F.Ru(),t.P),$async$ql)
 case 2:P.c1("email done")
 return P.a_(null,r)}})
 return P.a0($async$ql,r)}}
